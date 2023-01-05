@@ -4,5 +4,5 @@
 [![Telegram Badge](https://img.shields.io/badge/-Evgeny_itPro-blue?style=social&logo=telegram&link=https://t.me/Evgeny_itPro)](https://t.me/Evgeny_itPro) <p align='left'>
 
 - 💻 I'm backend developer
-- 🐍 In love with Python
+- 🧑‍💻 I love programming
 - 🇷🇺 Originally from Russia
